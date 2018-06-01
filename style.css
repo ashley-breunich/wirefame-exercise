@@ -62,7 +62,8 @@ section div {
 }
 
 h2 {
-    font-size: 20px;
+    font-size: 21px;
+    margin-bottom: 3px;
 }
 
 section div p {
@@ -78,15 +79,15 @@ button {
     padding: 10px 30px;
     background-color: #000;
     color: #fff;
-    border-radius: 3px;
+    border-radius: 4px;
     font-size: 18px;
-    margin-top: 19px;
+    margin-top: 15px;
     transition: 350ms;
     cursor: pointer;
 }
 
 button:hover {
-    background: pink;
+    background: rgb(177, 85, 100);
 }
 /* FOOTER */
 
